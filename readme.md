@@ -1,5 +1,8 @@
 # Start/Stop V2 Solution with Private Networking
 
+IMPORTANT NOTE: This is a POC and not intended for production use. 
+
+
 This is a POC based on https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/overview where it is converted to use private networking 
 Refer to the article for more details 
 
